@@ -1,0 +1,8 @@
+{
+  "generator-terraform-environments": {
+    "promptValues": {
+      "environments": "staging,production",
+      "components": "core,compute,data"
+    }
+  }
+}
